@@ -1,0 +1,40 @@
+[
+    {
+        "cover": "https://i.ibb.co/J7FRMDV/1.jpg",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co/jy3d0n0/boy1.png",
+        "title": "The Art of Fiction Writing",
+        "reading_time": 12,
+        "id": "as233",
+        "date": "2023-09-13",
+        "categories": [
+            "Writing Tips"
+        ]
+    },
+    {
+        "cover": "https://i.ibb.co/wY53GhB/2.png",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co/cCrxtsp/boy2.jpg",
+        "title": "Exploring the Wonders of Nature",
+        "reading_time": 8,
+        "id": "as234",
+        "date": "2023-09-14",
+        "categories": [
+            "Science",
+            "Nature"
+        ]
+    },
+    {
+        "cover": "https://i.ibb.co/fYntSkd/3.png",
+        "author_name": "Alice Johnson",
+        "author_img": "https://i.ibb.co/Jc8trX4/girl1.jpg",
+        "title": "Healthy Eating: A Beginner's Guide",
+        "reading_time": 10,
+        "id": "as235",
+        "date": "2023-09-15",
+        "categories": [
+            "Health",
+            "Wellness"
+        ]
+    }
+]
